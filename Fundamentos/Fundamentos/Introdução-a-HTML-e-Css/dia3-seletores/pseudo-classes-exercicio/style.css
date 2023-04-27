@@ -1,0 +1,28 @@
+div:hover {
+    border: 1px solid red;
+}
+
+.vermelho {
+    background-color: red;
+}
+.azul {
+    background-color: blue;
+}
+.verde {
+    background-color: green;
+    height: 100px;
+    border: 1px solid black;
+}
+.cinza {
+    background-color: gray;
+}
+.azul-claro {
+    background-color: azure;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+.impar {
+    font-style: italic;
+}
